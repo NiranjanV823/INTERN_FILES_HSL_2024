@@ -1,3 +1,16 @@
+HOW TO INSTALL AND RUN THE CODES ?? 
+1. Install python.
+2. Install VS Code ( reccomended ) or PyCharm.
+3. Install the required packages
+    a. numpy
+    b. pandas
+    c. scipy
+    d. openpyxl
+4. Open the code folder using VS Code and run the main.py file.
+
+
+
+
 /// CODES ///
 
 The CODES folder contains the codes i.e. the python files , and the excel sheet of the raw data file.
