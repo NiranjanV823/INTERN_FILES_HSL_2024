@@ -6,10 +6,10 @@ import numpy as np
  
 # If you want to run for latest year then put np.nan
 # year_end_const = np.nan
-year_end_const = 201706
+year_end_const = 202203
 # If you want to run for latest year then put np.nan
 # year_end_mon = np.nan
-year_end_mon = 201706
+year_end_mon = 202203
 
 #Which dataset do you want to use
 excel_file_path_quarterly = "All DataSet.xlsx"
@@ -19,10 +19,10 @@ excel_file_path_monthly = "AutoAncillaries Monthly.xlsx"
 # change these factors if you want to calculate for past x no of years 
 
 # for this parameter if last five years data is not present for EPS and Sales calculation, then make it 3 
-how_many_year_back = 3  
+how_many_year_back = 5 
 
 # for this parameter if last five years data is present for EPSVar calculation then 17, for three years 8
-rolling_quarters = 8
+rolling_quarters = 17
 
 
 
